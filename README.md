@@ -7,3 +7,5 @@ https://www.kaggle.com/andrewmvd/face-mask-detection
 
 After downloading the dataset,create 4 directories, whose names are:
 Input, adjusted_input_cnn,adjusted_input_svc,Input_RGB
+
+For more detailed info, please refer Facial_mask.pdf.
